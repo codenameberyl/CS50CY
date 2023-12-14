@@ -9,7 +9,7 @@ Harvard CS50’s Introduction to Cybersecurity — CS50CY 2023
 </h1>
 
 <p align="center">
-  <a href="https://cs50.harvard.edu/sql/2023">Course Link</a>
+  <a href="https://cs50.harvard.edu/cybersecurity/2023/">Course Link</a>
 </p>
 
 <pre align="center">
