@@ -32,9 +32,10 @@ In what sense are domain names similar to phone numbers like 1-800-COLLECT or 1-
 ---
 
 Browser Rankings
-According to StatCounter, below are the three browsers with top market share as of September 2023.
 
-Earlier in 2023, NordVPN, a VPN service, put out a ranking of browsers by the extent to which they take privacy-related measures seriously.
+According to [StatCounter](https://gs.statcounter.com/browser-market-share), below are the three browsers with top market share as of September 2023.
+
+Earlier in 2023, NordVPN, a VPN service, put out [a ranking of browsers](https://nordvpn.com/blog/best-privacy-browser/) by the extent to which they take privacy-related measures seriously.
 
 Below stats and rankings are accurate as of September 2023.
 
