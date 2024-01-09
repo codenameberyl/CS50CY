@@ -16,8 +16,8 @@ Harvard CS50’s Introduction to Cybersecurity — CS50CY 2023
 For Reference Only
 </pre>
 
-<a href="https://certificates.cs50.io/facb9406-2068-4c14-a1ac-6f22da61bf6c.png">
-  <img src="https://certificates.cs50.io/facb9406-2068-4c14-a1ac-6f22da61bf6c.png" alt="cs50p-certificates" />
+<a href="https://certificates.cs50.io/70742399-c839-4166-9816-7e3f54563824.png">
+  <img src="https://certificates.cs50.io/70742399-c839-4166-9816-7e3f54563824.png" alt="cs50cybersecurity-certificates" />
 </a>
 
 ## Table of Contents
